@@ -1,4 +1,4 @@
-#你好，测试ssh
+//你好，测试ssh
 #include <iostream>
 using namespace std;
 int main()
